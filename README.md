@@ -18,3 +18,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamed-elgharib&show_icons=true&locale=en" alt="mohamed-elgharib" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamed-elgharib&" alt="mohamed-elgharib" /></p>
+
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@gharabawy56839244/30-nites-of-code)  
+  ![@gharabawy56839244 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=gharabawy56839244)
